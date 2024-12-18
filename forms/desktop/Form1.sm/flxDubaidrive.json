@@ -1,0 +1,92 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "340dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "140dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sa7694d8a53e4b4788e41dc8b06f20dc",
+    "_top_": {
+        "type": "string",
+        "value": "3540dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "85%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.04%"
+    },
+    "children": [
+        "CopyimgDubaiapp0j31181242fd648",
+        "CopylblRtaDubai0a136dcb2ab8a4c",
+        "CopyimgRta0f977d34551dc42",
+        "CopylblDubaiapp0d599895347a14e",
+        "CopybtnRm0b69174f54c6743",
+        "CopyApple0i46091caf7f54e",
+        "CopyAndroidLogo0d746751bdd3841",
+        "CopyHSquare0d6cabec818ff41"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxDubaidrive",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "c0a65aa519a04d4f92cb6cc223304925",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxContent",
+    "pf": "Form1",
+    "responsiveData": {
+        "b1": {
+            "top": {
+                "type": "string",
+                "value": "3580dp"
+            }
+        },
+        "b2": {
+            "centerX": {
+                "type": "string",
+                "value": "51.12%"
+            },
+            "top": {
+                "type": "string",
+                "value": "3570dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "vizProps": {
+        "hide": true
+    },
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

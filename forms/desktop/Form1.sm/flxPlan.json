@@ -1,0 +1,76 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "550dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s76766cb2535442bbeb3684786a770b9",
+    "_top_": {
+        "type": "string",
+        "value": "576dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "children": [
+        "imgPlanyourjourney",
+        "lblPlanYourJourney",
+        "lblTheResults",
+        "lblJourneyPlanner",
+        "lblSelectstarting",
+        "tbxStartingpoint",
+        "lblSelectDestination",
+        "tbxDestination",
+        "lblSelectDepartue",
+        "calendarDepartue",
+        "cbxMetro",
+        "btnSearch",
+        "btnReset"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxPlan",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "gbd7f8b7ffc0471b8e83ee229b4c1007",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxContent",
+    "pf": "Form1",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

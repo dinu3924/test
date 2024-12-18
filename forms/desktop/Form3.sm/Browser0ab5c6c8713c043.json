@@ -1,0 +1,67 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizBrowser",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "220dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "100dp"
+    },
+    "_type_": 3,
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "androidwearos": {
+        "render": false
+    },
+    "canUpdateUI": true,
+    "containerweight": 69,
+    "desktopweb": {
+        "psp": {
+            "setAsContent": false
+        }
+    },
+    "detecttelnumber": true,
+    "htmlstring": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Image Carousel</title>\n    <style>\n        body {\n            font-family: Arial, sans-serif;\n            margin: 0;\n            padding: 0;\n            display: flex;\n            justify-content: center;\n            align-items: center;\n            height: 100vh;\n            background-color: #f3f3f3;\n        }\n        .carousel {\n            position: relative;\n            width: 80%;\n            max-width: 600px;\n            overflow: hidden;\n            border-radius: 10px;\n            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);\n        }\n        .carousel-images {\n            display: flex;\n            transition: transform 0.5s ease-in-out;\n        }\n        .carousel-images img {\n            width: 100%;\n            height: auto;\n        }\n        .arrow {\n            position: absolute;\n            top: 50%;\n            transform: translateY(-50%);\n            background-color: rgba(0, 0, 0, 0.5);\n            color: white;\n            border: none;\n            padding: 10px;\n            cursor: pointer;\n            z-index: 10;\n            border-radius: 50%;\n        }\n        .arrow.left {\n            left: 10px;\n        }\n        .arrow.right {\n            right: 10px;\n        }\n    </style>\n</head>\n<body>\n    <div class=\"carousel\">\n        <div class=\"carousel-images\">\n            <img src=\"D:\\rta\\c1 (1).jpg\" alt=\"Image 1\">\n            <img src=\"D:\\rta\\c1 (2).jpg\" alt=\"Image 2\">\n            <img src=\"D:\\rta\\c1 (3).jpg\" alt=\"Image 3\">\n        </div>\n        <button class=\"arrow left\" onclick=\"prevSlide()\">&#8249;</button>\n        <button class=\"arrow right\" onclick=\"nextSlide()\">&#8250;</button>\n    </div>\n\n    <script>\n        const carouselImages = document.querySelector('.carousel-images');\n        const images = document.querySelectorAll('.carousel-images img');\n        let currentIndex = 0;\n        const imageCount = images.length;\n\n        // Function to show the next slide\n        function nextSlide() {\n            currentIndex = (currentIndex + 1) % imageCount;\n            updateCarousel();\n        }\n\n        // Function to show the previous slide\n        function prevSlide() {\n            currentIndex = (currentIndex - 1 + imageCount) % imageCount;\n            updateCarousel();\n        }\n\n        // Function to update the carousel position\n        function updateCarousel() {\n            const offset = -currentIndex * 100;\n            carouselImages.style.transform = `translateX(${offset}%)`;\n        }\n\n        // Auto-slide every 3 seconds\n        setInterval(nextSlide, 3000);\n    </script>\n</body>\n</html>\n",
+    "id": "Browser0ab5c6c8713c043",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "b9ae384618e2470e96f285073be8c21a",
+    "margininpixel": false,
+    "method": "get",
+    "name": "kony.ui.Browser",
+    "paddinginpixel": false,
+    "parent": "Form3",
+    "pf": "Form3",
+    "requesturlconfig": {
+        "URL": "",
+        "requestMethod": "get"
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "screenlevelwidget": false,
+    "setascontent": false,
+    "url": "",
+    "wType": "Browser",
+    "zindex": 1
+}

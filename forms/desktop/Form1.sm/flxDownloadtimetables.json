@@ -1,0 +1,98 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "173dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s7ec8a1d9901433ab942a6f57ce55f02",
+    "_top_": {
+        "type": "string",
+        "value": "320dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "allboxes": [],
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": ""
+    },
+    "centery": {
+        "type": "number",
+        "value": ""
+    },
+    "children": [
+        "lblDownloadtimetables",
+        "HandDown",
+        "lblRoutenumber",
+        "tbxRoutenum",
+        "btnSearch4",
+        "lblthissite4",
+        "remove4"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s2a30cc9dc3d460d8e80466a9625c92a"
+        }
+    },
+    "disabledSkins": {},
+    "enablescrolling": true,
+    "id": "flxDownloadtimetables",
+    "ide_onClick": "AS_FlexContainer_cf2310c9b52c4221bcf8e218d4091e67",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "c2901e66b5714624baffd7bb17b01eea",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxWidgetHolder",
+    "pf": "Form1",
+    "responsiveData": {
+        "b2": {
+            "height": {
+                "type": "string",
+                "value": "160dp"
+            }
+        },
+        "b4": {
+            "centerX": {
+                "type": "string",
+                "value": ""
+            },
+            "centerY": {
+                "type": "string",
+                "value": "50%"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

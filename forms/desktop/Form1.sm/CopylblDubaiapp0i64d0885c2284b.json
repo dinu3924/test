@@ -1,0 +1,83 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s0f70f9daedc4f5f9c1241c131702d97",
+    "_text_": "S'hail is your all-in-one user-friendly app that helps you get around Dubai in the fastest simplest way. Manage your NOL accounts, book a taxi or luxury vehicle, use smart rental vehicles, book ride-hailing vehicles, plan inter-city bus journeys, enjoying full information about public transport and much more!",
+    "_top_": {
+        "type": "string",
+        "value": "103dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "650dp"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "CopylblDubaiapp0i64d0885c2284b",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "e411e6075aa04540b3bf41d24e201eec",
+    "name": "kony.ui.Label",
+    "parent": "flxShail",
+    "pf": "Form1",
+    "responsiveData": {
+        "b2": {
+            "left": {
+                "type": "string",
+                "value": "20dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "103dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "515dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

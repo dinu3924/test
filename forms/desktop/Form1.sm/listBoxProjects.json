@@ -1,0 +1,95 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "1100dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        1,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Please Select",
+    "_skin_": "s92c6366c9e14eb4a03d8d196548ebbf",
+    "_top_": {
+        "type": "string",
+        "value": "2665dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "230dp"
+    },
+    "blockeduiskin": "",
+    "buiskin": "",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "desktopweb": {
+        "psp": {
+            "multiple": false
+        }
+    },
+    "disabledSkins": {},
+    "dropdownimage": "listboxarw.png",
+    "focusskin": "s5f9b3ce81d5481e870fef61227f56e0",
+    "groupcells": false,
+    "id": "listBoxProjects",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "a6059ba7881342c28c9aff69c3f5d7c4",
+    "masterdata": [
+        [
+            "lb1",
+            "Ongoing Projects"
+        ],
+        [
+            "lb2",
+            "Completed Projects"
+        ]
+    ],
+    "multiselect": false,
+    "name": "kony.ui.ListBox",
+    "paddinginpixel": false,
+    "parent": "flxContent",
+    "pf": "Form1",
+    "responsiveData": {
+        "b1": {
+            "blockedUISkin": "",
+            "desktopweb": {},
+            "disabledSkins": {
+                "blockedUISkin": "s016f03c1242440c86d0671fc8398d16"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkey": "lb1",
+    "selectedkeys": null,
+    "selectedkeyvalue": [
+        "lb1",
+        "Ongoing Projects"
+    ],
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}

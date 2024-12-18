@@ -1,0 +1,97 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizDateField",
+    "DNDConfig": null,
+    "Image": "calbtn.png",
+    "_data_": null,
+    "_date_": "6/12/2024",
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sfcd78564f134968952dcfe21f385a31",
+    "_top_": {
+        "type": "string",
+        "value": "330dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "516dp"
+    },
+    "advview": "default",
+    "calendaricon": "calbtn.png",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "datecomponents": [
+        6,
+        12,
+        2024,
+        0,
+        0,
+        0
+    ],
+    "dateeditable": true,
+    "dateformat": "MM/dd/yyyy",
+    "day": 6,
+    "daytextalignmentincell": 5,
+    "format": "MM/dd/yyyy",
+    "formatteddate": "12/06/2024",
+    "hidedaysheader": false,
+    "hidemonthsheader": false,
+    "hour": 0,
+    "id": "calendarDepartue",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "jcae61fcf16a489ba197b4e6986eb7df",
+    "minutes": 0,
+    "month": 12,
+    "name": "kony.ui.Calendar",
+    "noofmonths": 1,
+    "pagedate": "/2024",
+    "parent": "flxPlan",
+    "pf": "Form1",
+    "responsiveData": {
+        "b2": {
+            "width": {
+                "type": "string",
+                "value": "340dp"
+            }
+        },
+        "b5": {
+            "left": {
+                "type": "string",
+                "value": "22dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "330dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "seconds": 0,
+    "selectdate": "//2024",
+    "viewtype": "default",
+    "wType": "Calendar",
+    "widgetalignment": 5,
+    "year": 2024,
+    "zindex": 1
+}

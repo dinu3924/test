@@ -1,0 +1,90 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "275dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se2976a4a77c4894a9b7a1414b46df53",
+    "_text_": "Dubai Drive",
+    "_top_": {
+        "type": "string",
+        "value": "3515dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblDubaiDrive",
+    "ide_onTouchEnd": "AS_Label_bad5a260a93d4eb7809b4514df9a5233",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ed1b7e7575c8459eb6c20a29b6022e51",
+    "name": "kony.ui.Label",
+    "parent": "flxContent",
+    "pf": "Form1",
+    "responsiveData": {
+        "b1": {
+            "left": {
+                "type": "string",
+                "value": "275dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "3528dp"
+            }
+        },
+        "b2": {
+            "left": {
+                "type": "string",
+                "value": "275dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "3527dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

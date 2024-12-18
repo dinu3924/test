@@ -1,0 +1,184 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_data_": [
+        {
+            "btnLearnmore": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Learn More",
+                "type": "Button"
+            },
+            "imgCarousel": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "c1__1_.jpg",
+                "type": "Image"
+            },
+            "lblServices": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Explore sights from across the world",
+                "type": "Label"
+            }
+        },
+        {
+            "btnLearnmore": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Learn More",
+                "type": "Button"
+            },
+            "imgCarousel": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "c1__2_.jpg",
+                "type": "Image"
+            },
+            "lblServices": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Book your vehicle inspection. Save time and money",
+                "type": "Label"
+            }
+        },
+        {
+            "btnLearnmore": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Learn More",
+                "type": "Button"
+            },
+            "imgCarousel": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "c1__3_.jpg",
+                "type": "Image"
+            },
+            "lblServices": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Many services delivered to you, in many ways",
+                "type": "Label"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": ""
+    },
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "b1afee3e4a11479d92f4ade54375ed63",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segCarousel",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ifaa9c979156487e8ff12110d5f7723a",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom",
+        "vdistance": 1
+    },
+    "parent": "flxCarousel",
+    "pf": "Form1",
+    "responsiveData": {
+        "b4": {
+            "rowSkin": "s944ad368306493abd0a267b79ad2675"
+        },
+        "b5": {
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "left": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "0dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "b7fc2e4ec25241f0bee9645bb3f9551b",
+    "rowcounter": 2,
+    "rowfocusskin": "se3ad87dfa74484cb88e8fe2dddf68ac",
+    "rowskin": "s37d22c4da5b4d259dfcef548d5d8f64",
+    "rowtemplate": "flxCarousel",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sce9d52ddebc443dac2aa3192a78375a",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "selectionbehaviorconfig": null,
+    "separatorcolor": "aaaaaa00",
+    "separatorrequired": true,
+    "separatorthickness": 0,
+    "showscrollbars": false,
+    "swipeContext": {
+        "currentPage": 0,
+        "imageWidth": 1434,
+        "widthRatio": 0
+    },
+    "viewtype": "pageview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "btnLearnmore": "btnLearnmore",
+        "flxCarousel": "flxCarousel",
+        "imgCarousel": "imgCarousel",
+        "lblServices": "lblServices"
+    },
+    "zindex": 1
+}

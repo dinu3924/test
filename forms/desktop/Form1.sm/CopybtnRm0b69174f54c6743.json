@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s3e0c33a1eed4e46a615057ba66ac533",
+    "_text_": "Read more",
+    "_top_": {
+        "type": "string",
+        "value": "198dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s4921ecef1d84a559f1202f9bfd2ea2d",
+    "id": "CopybtnRm0b69174f54c6743",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "a3d32d69dd6a4085bdd31dc1782b2874",
+    "name": "kony.ui.Button",
+    "parent": "flxDubaidrive",
+    "pf": "Form1",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

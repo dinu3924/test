@@ -1,0 +1,92 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "340dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "140dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sa7694d8a53e4b4788e41dc8b06f20dc",
+    "_top_": {
+        "type": "string",
+        "value": "3550dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "85%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "children": [
+        "CopyimgDubaiapp0bc788cb8b9554b",
+        "CopylblRtaDubai0cdb6dd2f23dd4d",
+        "CopyimgRta0b419a6a4a05646",
+        "CopylblDubaiapp0i64d0885c2284b",
+        "CopybtnRm0e2ef25803c774b",
+        "CopyApple0dc487997bcd047",
+        "CopyAndroidLogo0d946d55f55ff4b",
+        "CopyHSquare0j245e655384047"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxShail",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "bd843e3dcf8342e89d57e46c658dd5b2",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxContent",
+    "pf": "Form1",
+    "responsiveData": {
+        "b1": {
+            "top": {
+                "type": "string",
+                "value": "3580dp"
+            }
+        },
+        "b2": {
+            "centerX": {
+                "type": "string",
+                "value": "51.14%"
+            },
+            "top": {
+                "type": "string",
+                "value": "3570dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "vizProps": {
+        "hide": false
+    },
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

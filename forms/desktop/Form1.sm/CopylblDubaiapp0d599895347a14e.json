@@ -1,0 +1,75 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s0f70f9daedc4f5f9c1241c131702d97",
+    "_text_": "Dubai Drive is your best road companion offering you enhanced services related to Vehicle Registration, Parking and Salik.",
+    "_top_": {
+        "type": "string",
+        "value": "124dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "650dp"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "CopylblDubaiapp0d599895347a14e",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "if4a895f041d4768ba27385f6204b61e",
+    "name": "kony.ui.Label",
+    "parent": "flxDubaidrive",
+    "pf": "Form1",
+    "responsiveData": {
+        "b2": {
+            "width": {
+                "type": "string",
+                "value": "455dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s59b941a59f741f9ad99c7ef9c17cc7f",
+    "_text_": "Read More",
+    "_top_": {
+        "type": "string",
+        "value": "410dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "120dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s4d40d15c3da4852badcaba92877337e",
+    "id": "btnReadmore",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f7ddb42d10f74c9197a5c7728747b485",
+    "name": "kony.ui.Button",
+    "parent": "flxVehicleLicensing",
+    "pf": "Form1",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

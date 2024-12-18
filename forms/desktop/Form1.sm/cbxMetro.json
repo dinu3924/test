@@ -1,0 +1,135 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizCheckBox",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "35dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s2391e9da88f446787c97861db66d050",
+    "_top_": {
+        "type": "string",
+        "value": "399dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "640dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "id": "cbxMetro",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "viewType": 4
+        }
+    },
+    "iphone": {
+        "psp": {
+            "viewType": 4
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "itemorientation": "horizontal",
+    "kuid": "bc401ec49128421dbb80da7a39fe4ee1",
+    "masterdata": [
+        [
+            "cbg1",
+            "Metro"
+        ],
+        [
+            "cbg2",
+            "  Bus"
+        ],
+        [
+            "cbg3",
+            "  Tram"
+        ],
+        [
+            "cbg4",
+            "  Marine"
+        ],
+        [
+            "cbg5",
+            "  Least interchanges"
+        ]
+    ],
+    "name": "kony.ui.CheckBoxGroup",
+    "orientation": "horizontal",
+    "paddinginpixel": false,
+    "parent": "flxPlan",
+    "pf": "Form1",
+    "responsiveData": {
+        "b2": {
+            "left": {
+                "type": "string",
+                "value": "10dp"
+            },
+            "skin": "sc64ff2866c046f39a3e705f41f951d2",
+            "top": {
+                "type": "string",
+                "value": "399dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "364dp"
+            }
+        },
+        "b5": {
+            "skin": "sac2d5ebd7d948d79a8d74f4458ece2f",
+            "width": {
+                "type": "string",
+                "value": "508dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkey": null,
+    "selectedkeys": [
+        "cbg1",
+        "cbg2",
+        "cbg3",
+        "cbg4"
+    ],
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": [
+        [
+            "cbg1",
+            "Metro"
+        ],
+        [
+            "cbg2",
+            "  Bus"
+        ],
+        [
+            "cbg3",
+            "  Tram"
+        ],
+        [
+            "cbg4",
+            "  Marine"
+        ]
+    ],
+    "size": 18,
+    "viewtype": 0,
+    "wType": "CheckBoxGroup",
+    "widgetalignment": 5,
+    "zindex": 1
+}

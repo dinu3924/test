@@ -1,0 +1,101 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "550%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sfa5566c516a45a48a6130edbdbb6423",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "flxCarousel",
+        "flxPlan",
+        "lblCampaignsHeading",
+        "lblExplorenew",
+        "flxVehicleLicensing",
+        "flxManyservices",
+        "btnLatestCampaigns",
+        "lblPressReleases",
+        "lblStayuptodate",
+        "flxEnergyMgmt",
+        "flxDistributing",
+        "flxStatement",
+        "btnSeemore",
+        "lblProjects",
+        "lblExploreour",
+        "listBoxProjects",
+        "flxAdditionalEntrances",
+        "flxFiveyearplan",
+        "flx22projects",
+        "btnViewOur",
+        "lblRtaSmartApps",
+        "lblRTastrives",
+        "flxDubaiApp",
+        "flxDubaidrive",
+        "flxShail",
+        "lblRtaDubaiapp",
+        "lblDubaiDrive",
+        "lblShail",
+        "flxWidgetHolder"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "desktopweb": {
+        "psp": {
+            "ide_onHover": "AS_FlexContainer_ea9d5616d66d4759910329ee206d0b9e"
+        }
+    },
+    "enablescrolling": true,
+    "id": "flxContent",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "c3274d29296045b78f89bb6883056358",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxScrollContent",
+    "pf": "Form1",
+    "responsiveData": {
+        "b1": {},
+        "b2": {
+            "height": {
+                "type": "string",
+                "value": "544.75%"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

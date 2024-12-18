@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "70dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "545dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s78444642bc44f60972613561daaeaeb",
+    "_text_": "See more press releases",
+    "_top_": {
+        "type": "string",
+        "value": "2520dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "350dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s31762bf34ba4cd6b015624c433f0a27"
+        }
+    },
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "sa7dfad232cd4d3fb920df8d5f8c5ad6",
+    "id": "btnSeemore",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f1402e7b73314416aa3a8e184ea6205b",
+    "name": "kony.ui.Button",
+    "parent": "flxContent",
+    "pf": "Form1",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

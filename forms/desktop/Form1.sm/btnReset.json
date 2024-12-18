@@ -1,0 +1,79 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "310dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s1e8abcb4d894753b9fd7141f785fe67",
+    "_text_": "Reset",
+    "_top_": {
+        "type": "string",
+        "value": "470dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "250dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s5a0053357ce4390b162c8a11732ed3a"
+        }
+    },
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s53d5c840c334c488e37f4512420a31d",
+    "id": "btnReset",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "c295cab5a48943299727964a4a2c02d3",
+    "name": "kony.ui.Button",
+    "parent": "flxPlan",
+    "pf": "Form1",
+    "responsiveData": {
+        "b2": {
+            "left": {
+                "type": "string",
+                "value": "213dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "470dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "120dp"
+            }
+        },
+        "b5": {
+            "width": {
+                "type": "string",
+                "value": "200dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

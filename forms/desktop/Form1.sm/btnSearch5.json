@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "43dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sfd84310c9df4fd482e291ff4395d7ae",
+    "_text_": "Search",
+    "_top_": {
+        "type": "string",
+        "value": "200dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "178dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s451ffa9c3c14c679a35052d019c0b57"
+        }
+    },
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s85cc769a4ed42ddb28712581db86342",
+    "id": "btnSearch5",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ef7d778cd7714b96b3ae98d548f37c52",
+    "name": "kony.ui.Button",
+    "parent": "flxViewDepartue",
+    "pf": "Form1",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "vizProps": {
+        "hide": true
+    },
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,99 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        1,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Please Select",
+    "_skin_": "sa4dff56dfac41708b54a893f8679388",
+    "_top_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "131dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "s5f9b3ce81d5481e870fef61227f56e0",
+    "groupcells": false,
+    "id": "lstCode1",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "fd37c4c6aa4f4dd899215bba24abbb1d",
+    "masterdata": [
+        [
+            "lb1",
+            "Select code"
+        ],
+        [
+            "lb2",
+            "A"
+        ],
+        [
+            "lb3",
+            "C"
+        ],
+        [
+            "Key3048935912",
+            "D"
+        ],
+        [
+            "Key3633037417",
+            "E"
+        ],
+        [
+            "Key705240818",
+            "F"
+        ],
+        [
+            "Key1485494177",
+            "B"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "paddinginpixel": false,
+    "parent": "flxVCheck",
+    "pf": "Form1",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkeys": null,
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "vizProps": {
+        "hide": true
+    },
+    "wType": "ListBox",
+    "zindex": 2
+}

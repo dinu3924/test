@@ -1,0 +1,74 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "470dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "470dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sbe22117bd4f415bb1cb9550d417ccdb",
+    "_top_": {
+        "type": "string",
+        "value": "2780dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "350dp"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "imgFiveyearplan",
+        "lblFiveyearplan",
+        "CopybtnReadmore0a773b15e3fbb42"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxFiveyearplan",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "a7c37f2b727c4f6d9ef809786c7fa1e0",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxContent",
+    "pf": "Form1",
+    "responsiveData": {
+        "b2": {
+            "left": {
+                "type": "string",
+                "value": "380dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "300dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

@@ -1,0 +1,68 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        1,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "XXXXXXXX",
+    "_skin_": "sf45c465c32748a297f64a8f9ed9cc95",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "200dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "319dp"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "sa9a7aa90be54b7fb83f20619aefe81f",
+    "id": "tbxnolid",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "bd08af2e37db42e6893cc12389ea4415",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "paddinginpixel": false,
+    "parent": "flxChecknoBal",
+    "pf": "Form1",
+    "placeholderskin": "s272b5e8ad094b8881a0107196e556a3",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "securetextentry": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "vizProps": {
+        "hide": true
+    },
+    "wType": "TextField",
+    "zindex": 1
+}
